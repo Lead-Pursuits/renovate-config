@@ -10,7 +10,5 @@
       "automerge": true
     }
   ],
-  {
   "ignorePaths": ["**/cloudbuild.yaml"]
-}
 }
